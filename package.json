@@ -1,0 +1,12 @@
+{
+    "name": "brackets-main-window",
+    "title": "MainWindow",
+    "description": "Never lose track of the main window!",
+    "homepage": "https://github.com/thomasvalera/Brackets-MainWindow",
+    "version": "1.0.0",
+    "author": "thomasvalera <thomasvalera@gmail.com> (https://github.com/thomasvalera)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.34.0"
+    }
+}
