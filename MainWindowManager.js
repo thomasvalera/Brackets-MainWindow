@@ -354,14 +354,14 @@ define(function (require, exports, module) {
             _displayIndicator();
             
             // If windows, show toolbar and notification
-            if (appshell.platform === "win") {
+//            if (appshell.platform === "win") {
                 _displayToolbar();
                 
                 // If notification enabled
                 if (_isEnabled) {
                     _displayNotification();
                 }
-            }
+//            }
         }
     }
     

@@ -10,10 +10,13 @@ Features
 ===================
 
 * A warning that you cannot miss
+![Menu Bar Access](https://raw.github.com/thomasvalera/Brackets-MainWindow/master/images/Brackets-MainWindow-notification.png)
 
 * A toggle to turn off the warning
+![Menu Bar Access](https://raw.github.com/thomasvalera/Brackets-Workspaces/master/images/Brackets-MainWindow-toolbar.png)
 
 * A small indicator in case the warning is turned off
+![Menu Bar Access](https://raw.github.com/thomasvalera/Brackets-Workspaces/master/images/Brackets-MainWindow-indicator.png)
 
 How To
 ===================
