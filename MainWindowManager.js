@@ -37,7 +37,7 @@
  *
  */
 // ------------------------------------------------------------------------
-/*global define, brackets, window, $, Mustache, appshell */
+/*global define, brackets, window, $, Mustache */
 /*jslint nomen: true, vars: true */
 define(function (require, exports, module) {
     'use strict';
@@ -305,7 +305,7 @@ define(function (require, exports, module) {
             // On reload and if primary
             if (id === "debug.refreshWindow" && _isPrimary) {
                 // Clear url (no explicit primary param means primary window)
-                UrlParams.put(URL_PRIMARY,"true");
+                UrlParams.put(URL_PRIMARY, "true");
                 _updateWindowState();
             }
         });
@@ -337,7 +337,7 @@ define(function (require, exports, module) {
         // Add secondary to url to make sure 
         // futur opened window will know they are secondary
         // Update window state to apply
-        UrlParams.put(URL_PRIMARY,"false");
+        UrlParams.put(URL_PRIMARY, "false");
         _updateWindowState();
         
         // Get preferences values
@@ -353,15 +353,13 @@ define(function (require, exports, module) {
             
             _displayIndicator();
             
-            // If windows, show toolbar and notification
-//            if (appshell.platform === "win") {
-                _displayToolbar();
-                
-                // If notification enabled
-                if (_isEnabled) {
-                    _displayNotification();
-                }
-//            }
+            // Show toolbar and notification
+            _displayToolbar();
+            
+            // If notification enabled
+            if (_isEnabled) {
+                _displayNotification();
+            }
         }
     }
     

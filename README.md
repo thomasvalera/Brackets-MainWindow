@@ -9,13 +9,13 @@ Never again will you close a random window, hoping you didn't close the main win
 Features
 ===================
 
-* A warning that you cannot miss
+* A warning that you cannot miss  
 ![Warning](https://raw.github.com/thomasvalera/Brackets-MainWindow/master/images/Brackets-MainWindow-notification.png)
 
-* A toggle to turn off the warning
+* A toggle to turn off the warning  
 ![Toggle](https://raw.github.com/thomasvalera/Brackets-MainWindow/master/images/Brackets-MainWindow-toolbar.png)
 
-* A small indicator in case the warning is turned off
+* A small indicator in case the warning is turned off  
 ![Indicator](https://raw.github.com/thomasvalera/Brackets-MainWindow/master/images/Brackets-MainWindow-indicator.png)
 
 How To
@@ -30,28 +30,27 @@ Install:
 Alternatively:
 
 1. Go to _File > Extension Manager_ and select _Install from URL..._.
-2. Copy and paste the following: https://github.com/thomasvalera/Brackets-MainWindow.
+2. Copy and paste the following: https://github.com/thomasvalera/Brackets-MainWindow
 3. Hit _Install_!
 
 How to make it work:
+--------------------
 
 * Install the extension.
 
 How to hide the notification:
-
+--------------------
 * Click on the notification. This will hide it until next time you boot Brackets.
 * Click on the toolbar to enable/disable the notification.
 
 NOTE:
 
 * A small indicator will always be visible in the status bar.
-* Because closing the main window on Mac, only the indicator is displayed.
 
 FAQ
 ===================
 
 * The notification does not appear?
-  - If you are on Mac, then only the indicator is displayed in the status bar. The reason is that closing the main window on mac does not close the application as on Windows.
   - Did you turn it off? Go to the toolbar of the main window and click on the MainWindow icon. If it turns orange it means it is now enabled!
   
 * Does he know how awesome this extension is?
@@ -59,4 +58,4 @@ FAQ
 
 Contact
 ===================
-If you want to contribute, ask some questions or even discuss possible features to add, open a ticket or send me an email at thomasvalera@gmail.com.
+If you want to contribute, ask some questions or even discuss possible features to add, open an _enhancement_ ticket or send me an email at thomasvalera@gmail.com.
