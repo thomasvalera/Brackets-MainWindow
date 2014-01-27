@@ -21,8 +21,8 @@ Features
 How To
 ===================
 
-Install:
-
+Install
+-------------------
 1. Choose _File > Extension Manager_ and select the _Available_ tab.
 2. Search for _MainWindow_.
 3. Hit _Install_!
@@ -33,12 +33,12 @@ Alternatively:
 2. Copy and paste the following: https://github.com/thomasvalera/Brackets-MainWindow
 3. Hit _Install_!
 
-How to make it work:
+How to make it work
 --------------------
 
 * Install the extension.
 
-How to hide the notification:
+How to hide the notification
 --------------------
 * Click on the notification. This will hide it until next time you boot Brackets.
 * Click on the toolbar to enable/disable the notification.
