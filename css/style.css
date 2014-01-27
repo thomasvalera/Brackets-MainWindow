@@ -11,7 +11,7 @@
 }
 
 /* global foundicon styles */
-[class*="foundicon-"] {
+[class*="main-window-foundicon-"] {
   display: inline;
   width: auto;
   height: auto;
@@ -22,7 +22,7 @@
   background-repeat: repeat;
 }
 
-[class*="foundicon-"]:before {
+[class*="main-window-foundicon-"]:before {
   font-family: "GeneralFoundicons";
   font-weight: normal;
   font-style: normal;
@@ -50,11 +50,11 @@
     color: orange !important;
 }
 
-.co-icon {
+.main-window-co-icon {
     font-size: 20px;
 }
 
 /* icons */
-.foundicon-minus:before {
+.main-window-foundicon-minus:before {
   content: "\f004";
 }
