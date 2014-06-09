@@ -1,6 +1,6 @@
 /* font-face */
 @font-face {
-  font-family: "GeneralFoundicons";
+  font-family: "MWGeneralFoundicons";
   src: url("fonts/general_foundicons.eot");
   src: url("fonts/general_foundicons.eot?#iefix") format("embedded-opentype"), 
         url("fonts/general_foundicons.woff") format("woff"), 
@@ -23,7 +23,7 @@
 }
 
 [class*="main-window-foundicon-"]:before {
-  font-family: "GeneralFoundicons";
+  font-family: "MWGeneralFoundicons";
   font-weight: normal;
   font-style: normal;
   text-decoration: inherit;
@@ -47,7 +47,7 @@
 }
 
 .main-window-toolbar.active {
-    color: orange !important;
+    color: #E3B551 !important;
 }
 
 .main-window-co-icon {
