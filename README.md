@@ -6,6 +6,11 @@ Have you ever closed the main application window without knowing it, and sat ...
 With Brackets MainWindow, you are always aware of which is the main window!
 Never again will you close a random window, hoping you didn't close the main window!
 
+Note
+===================
+
+Due to lack of time, this extension will not see any updates anymore. If you like it, I encourage you to fork it and unleash your creativity!
+
 Features
 ===================
 
@@ -54,8 +59,8 @@ FAQ
   - Did you turn it off? Go to the toolbar of the main window and click on the MainWindow icon. If it turns orange it means it is now enabled!
   
 * Does he know how awesome this extension is?
-  - You tell me! If you like this extension I would be happy to hear your thoughts about it, send me an email at thomasvalera@gmail.com!
+  - You tell me! Fork, contribute and keep this extension alive!
 
 Contact
 ===================
-If you want to contribute, ask some questions or even discuss possible features to add, open an _enhancement_ ticket or send me an email at thomasvalera@gmail.com.
+If you want to contribute, ask some questions or even discuss possible features to add, open an _enhancement_ ticket or fork this repo!
